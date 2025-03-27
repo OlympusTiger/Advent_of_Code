@@ -1,0 +1,16 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+tempCodeRunnerFile.py
+
+# Virtual environments
+.venv
+uv.lock
+
+# input and example
+\data
+test.py
